@@ -10,42 +10,45 @@ CONFIGURACIONES
 
 RED Topologia
 vista 1
+
 ![](admin.PNG)
+
  vista 2
-![](area_Trabajo.png)
+![](area_Trabajo.PNG)
+
 vista 3
-![](backbone.png)
+![](backbone.PNG)
 
 Configuraciones servidor
 Vlan - status
 VLANS
-![](vlans.png)
+![](vlans.PNG)
 STATUS
-![](server.png)
+![](server.PNG)
 
 Configuraciones clientes
 Vlan - status
 VLANS
-![](configuracion_clientes.png)
+![](configuracion_clientes.PNG)
 
 Configuracion switch transparente SW9
 Vlan - status
 VLANS
-![](transparent_vlan.png)
+![](transparent_vlan.PNG)
 STATUS
-![](transparent_status.png)
+![](transparent_status.PNG)
 
 
 PINGS 
 
 Contabilidad - Secretaria
-![](CONTABILIDAD_RRHH.png)
+![](CONTABILIDAD_RRHH.PNG)
 Contabalidad 1 - Contabilidad 2
 ![](contabilidad_contabilidad2.PNG)
 
 Configuracion de IP
 Contabilidad 
-![](CONTABILIDAD_PING.PNG.png)
+![](CONTABILIDAD_PING.PNG.PNG)
 
 Secretaria
 ![](SECRETARIA_PING.PNG.PNG)
