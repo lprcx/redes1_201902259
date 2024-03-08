@@ -61,11 +61,11 @@ Contabalidad 1 - Contabilidad 2
 Configuracion de IP
 Contabilidad 
 
-![](CONTABILIDAD_PING.PNG.PNG)
+![](CONTABILIDAD_PING.PNG)
 
 Secretaria
 
-![](SECRETARIA_PING.PNG.PNG)
+![](SECRETARIA_PING.PNG)
 
 RRHH
 
