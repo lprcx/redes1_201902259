@@ -15,9 +15,11 @@ vista 1
 ![](admin.PNG)
 
  vista 2
+ 
 ![](area_Trabajo.PNG)
 
 vista 3
+
 ![](backbone.PNG)
 
 Configuraciones servidor
@@ -27,6 +29,7 @@ VLANS
 ![](vlans.PNG)
 
 STATUS
+
 ![](server.PNG)
 
 Configuraciones clientes
